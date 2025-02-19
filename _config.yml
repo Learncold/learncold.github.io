@@ -2,7 +2,12 @@ title: Learncold 개발 공부
 description: 공부한 내용을 기록한다.
 theme: just-the-docs
 
-url: https://learncold.github.io/ 
+url: https://learncold.github.io 
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://learncold.github.io
+
+# Footer
+gh_edit_link: true
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://learncold.github.io"
